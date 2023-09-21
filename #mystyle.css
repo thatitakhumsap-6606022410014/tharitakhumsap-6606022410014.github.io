@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(191, 0, 255);
+}
+h2 {
+    text-align: center;
+    font-size: 300%;
+}
+img {
+    border-style: solid;
+    border-width: 5px 20px;
+    width: 20%;
+}
+h1 {
+    text-align: center;
+    font-size: 200%;
+}
+a {
+    text-align: center;
+    font-size: 150%;
+}
+table {
+    font-size: 150%;
+    border-style: dotted;
+    border-width: thick;
+}
