@@ -1,6 +1,6 @@
 body {
     background-color: rgb(209, 164, 224);
-    color: #e71a65;
+    color: #72032c;
 }
 h2 {
     text-align: center;
@@ -8,7 +8,7 @@ h2 {
 }
 img {
     border-style: solid;
-    border-width: 5px 20px;
+    border-width: 8px 30px;
     width: 20%;
 }
 h1 {
@@ -23,4 +23,7 @@ table {
     font-size: 150%;
     border-style: dotted;
     border-width: thick;
+}
+#topic{
+    color: #083147;
 }
